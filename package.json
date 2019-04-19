@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node server.js"
   },
+  "engines": {
+    "node": ">=11.13.0",
+    "npm": ">=6.9.0"
+  },
   "repository": {
     "type": "git",
     "url": ""
